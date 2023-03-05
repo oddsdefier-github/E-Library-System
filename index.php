@@ -24,7 +24,7 @@ require('dbconn.php');
 	<!-- left -->
 	<div class="col-lg-6 mb-2 mb-lg-0 mt-5 me-5">
 		<h3 class="my-5 display-5 fw-bold ls-tight">
-		Effortless access to <br> <span class="text-primary">knowledges</span> anytime, anywhere.
+		Effortless access to <br> <span class="text-primary">knowledge</span> anytime, anywhere.
 		</h3>
 		<p style="color: hsl(217, 10%, 50.8%)">
 		Introducing the ultimate solution for students and librarians 
