@@ -1,0 +1,39 @@
+* {
+   margin: 0;
+   padding: 0;
+   /* outline: 1px solid red; */
+    
+}
+
+body {
+   width: 100vw;
+   height: 100vh;
+}
+
+footer {
+position: absolute;
+bottom: 1rem;
+width: 65.5%;
+
+}
+
+.wrapper {
+   padding: 1rem;
+}
+.list-group a {
+   background-color: transparent;
+}
+.list-group-item {
+   transition: 0.2s ease-in-out;
+   background-color: #1f74f5;
+}
+.list-group-item a {
+   color: black;
+}
+.list-group-item a:hover {
+   color: rgb(255, 255, 255);
+}
+.list-group-item:hover {
+   background-color: #1f74f5;
+   color:white;
+}
